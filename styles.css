@@ -21,19 +21,27 @@ img{
 .post-header{
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 .icons-left{
     display: flex;
 }
-.fa-brands{
+.fab{
     font-size: 35px;
     margin-right: 10px;
+}
+.fa-solid{
+    font-size: 30px;
 }
 .iconos{
     display: flex;
     justify-content: space-between;
 }
 .iconos-bottom{
+    font-size: 25px;
     display: flex;
     gap: 5px;
+}
+.bookmark{
+    font-size: 25px;
 }
